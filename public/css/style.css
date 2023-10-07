@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  padding: 20px;
+  background-color: bisque;
+}
+img {
+  width: 700px;
+  margin: 20px;
+}
